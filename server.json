@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/arcgis-chapelhill",
+  "title": "Arcgis Chapelhill",
+  "description": "Town of Chapel Hill GIS — Chapel Hill, North Carolina open geospatial data (ArcGIS).",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/arcgis-chapelhill",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-chapelhill",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/arcgis-chapelhill/mcp"
+    }
+  ]
+}
