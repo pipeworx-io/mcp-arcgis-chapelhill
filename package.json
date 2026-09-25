@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-chapelhill",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Town of Chapel Hill GIS — Chapel Hill, North Carolina open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-85198930e5ae0207fd85295dfc7d2ae7af46ee0793d9090906a500d791cb9070",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-02f546073d0888f644ec0b2d356340c2353e9b5b00cae58a79eb8ded16f41942",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
